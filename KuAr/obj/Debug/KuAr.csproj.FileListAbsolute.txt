@@ -1,0 +1,50 @@
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\bin\Debug\KuAr.exe.config
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\bin\Debug\KuAr.exe
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\bin\Debug\KuAr.pdb
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.AssemblyReference.cache
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\obj\Debug\KuAr.Form1.resources
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\obj\Debug\KuAr.Properties.Resources.resources
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.GenerateResource.cache
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.CoreCompileInputs.cache
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\obj\Debug\KuAr.exe
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\obj\Debug\KuAr.pdb
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.Up2Date
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\bin\Debug\System.IO.Packaging.dll
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Чертов и Алексеев и\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\2 половина года\KuAr\KuAr\bin\Debug\KuAr.exe.config
+E:\2 половина года\KuAr\KuAr\bin\Debug\KuAr.exe
+E:\2 половина года\KuAr\KuAr\bin\Debug\KuAr.pdb
+E:\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.dll
+E:\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\2 половина года\KuAr\KuAr\bin\Debug\System.IO.Packaging.dll
+E:\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.xml
+E:\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.AssemblyReference.cache
+E:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.Form1.resources
+E:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.Properties.Resources.resources
+E:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.GenerateResource.cache
+E:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.CoreCompileInputs.cache
+E:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.Up2Date
+E:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.exe
+E:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.pdb
+G:\2 половина года\KuAr\KuAr\bin\Debug\KuAr.exe.config
+G:\2 половина года\KuAr\KuAr\bin\Debug\KuAr.exe
+G:\2 половина года\KuAr\KuAr\bin\Debug\KuAr.pdb
+G:\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.dll
+G:\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+G:\2 половина года\KuAr\KuAr\bin\Debug\System.IO.Packaging.dll
+G:\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.xml
+G:\2 половина года\KuAr\KuAr\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+G:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.AssemblyReference.cache
+G:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.SuggestedBindingRedirects.cache
+G:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.Form1.resources
+G:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.Properties.Resources.resources
+G:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.GenerateResource.cache
+G:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.CoreCompileInputs.cache
+G:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.csproj.CopyComplete
+G:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.exe
+G:\2 половина года\KuAr\KuAr\obj\Debug\KuAr.pdb
